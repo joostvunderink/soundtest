@@ -1,0 +1,13 @@
+{
+  "appId": "nl.blauwmuts.soundtest",
+  "appName": "soundtest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
